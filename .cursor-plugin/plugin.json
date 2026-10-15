@@ -1,12 +1,20 @@
 {
   "name": "instadram",
-  "description": "Your whisky & bourbon collection in any AI: search the bottle catalog, read your shelf and pours, check community reviews, and browse public shelves. Read-only.",
-  "version": "1.0.0",
-  "author": { "name": "DrawBuildPlay LLC" },
+  "description": "Your whisky & bourbon collection in any AI: search the catalog and community reviews, browse your shelf and public shelves, and (with your confirmation) add bottles, rate, log pours, manage collections, follow collectors and edit your profile.",
+  "version": "1.1.0",
+  "author": {
+    "name": "DrawBuildPlay LLC"
+  },
   "homepage": "https://instadram.me",
   "repository": "https://github.com/drawbuildplay/instadram-plugin",
   "license": "MIT",
-  "keywords": ["instadram", "instadram shelf", "instadram bottle", "whisky collection", "bourbon collection"],
+  "keywords": [
+    "instadram",
+    "instadram shelf",
+    "instadram bottle",
+    "whisky collection",
+    "bourbon collection"
+  ],
   "logo": "assets/logo.png",
   "skills": "./skills/",
   "mcpServers": "./mcp.json"
