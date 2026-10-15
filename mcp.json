@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "instadram": { "url": "https://api.instadram.me/mcp" }
+  }
+}
